@@ -20,7 +20,7 @@
 
  
 <a style=" position: absolute;" href="https://github.com/marwenez">
-  <img width="420" height="180em" src="https://github-readme-stats.vercel.app/api?username=marwenez&theme=radical&show_icons=true" />
-  <img width="420" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwenez&theme=radical&layout=compact" />
+  <img width="421" height="180em" src="https://github-readme-stats.vercel.app/api?username=marwenez&theme=radical&show_icons=true" />
+  <img width="421" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwenez&theme=radical&layout=compact" />
 </a>
 <br/>
