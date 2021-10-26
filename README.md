@@ -15,7 +15,7 @@
 </p> 
   
 
-<a  href="https://app.daily.dev/MarwenLabidi"><img  align="right" src="https://github.com/marwenez/marwenez/blob/main/devcard.svg" width="370" height="370" alt="Chris Bongers's Dev Card"/></a>
+<a  href="https://app.daily.dev/MarwenLabidi"><img  align="right" src="https://github.com/marwenez/marwenez/blob/main/devcard.svg" width="270" height="370" alt="Chris Bongers's Dev Card"/></a>
 
 
  
