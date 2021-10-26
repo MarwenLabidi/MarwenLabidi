@@ -14,13 +14,16 @@
  <a href="https://cssbattle.dev/player/rkWsxolpLUNKjiOZcW8o3jOwjoB2"target="_blank"><img src="https://img.shields.io/badge/CSSBattle-2962FF?style=for-the-badge&logo=CSSBattle&logoColor=white%20alt=%22CSSBAttle%22"></a>&nbsp;
 </p> 
   
-
-<a  href="https://app.daily.dev/MarwenLabidi"><img  align="right" src="https://github.com/marwenez/marwenez/blob/main/devcard.svg" width="270" height="370" alt="Chris Bongers's Dev Card"/></a>
+<br />
+ <br />
+ <br />
+<a width="370"
+height="370"  href="https://app.daily.dev/MarwenLabidi"><img  align="right" src="https://github.com/marwenez/marwenez/blob/main/devcard.svg" width="270" height="370" alt="Chris Bongers's Dev Card"/></a>
 
 
  
 <a style=" position: absolute;" href="https://github.com/marwenez">
-  <img width="421" height="180em" src="https://github-readme-stats.vercel.app/api?username=marwenez&theme=radical&show_icons=true" />
-  <img width="421" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwenez&theme=radical&layout=compact" />
+  <img width="420" height="180em" src="https://github-readme-stats.vercel.app/api?username=marwenez&theme=radical&show_icons=true" />
+  <img width="420" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwenez&theme=radical&layout=compact" />
 </a>
 <br/>
