@@ -1,12 +1,10 @@
 <h1 align="center"><b> Hey there! I'm Marwen </b> 👋.</h1>
 
- <img align="center" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy  to talk with you !</b> 😊</em>
+ <img  src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy  to talk with you !</b> 😊</em>
 </p>
 <br/>
 
 <p align="center">
-
-
 <a href="https://www.linkedin.com/in/marwen-labidi-5a9082142/" target="_blank"><img target="_blank" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"target="_blank" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/marwen-labidi-5a9082142/" ><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4" alt="Portfolio" target="_blank"/></a>&nbsp;
 <a href="https://codepen.io/marwenez"target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp;
