@@ -28,6 +28,7 @@ height="370"  href="https://app.daily.dev/MarwenLabidi"><img  align="right" src=
   <img width="420" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarwenLabidi&theme=radical&layout=compact" />
 </a>
 <br/>
+<p style="text-align: center;">
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
@@ -42,6 +43,4 @@ height="370"  href="https://app.daily.dev/MarwenLabidi"><img  align="right" src=
 - [How i Customized  my Pop!_OS](https://marwenlabidi.hashnode.dev/how-i-customized-my-popos-ckvef3czr0dt6cms10qse4hhe)
 - [How Linux users watch anime ?](https://marwenlabidi.hashnode.dev/how-linux-users-watch-anime-ckvbhvao30nct45s15vcf3hmo)
 <!-- HASHNODE_BLOG:END -->
-<a style=" position: absolute;" href="https://github.com/KnlnKS/leetcode-stats">
-  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=labidimarwen6&theme=dark" width="300"/>
-</a>
+ </p>
