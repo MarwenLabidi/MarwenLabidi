@@ -17,6 +17,6 @@ jobs:
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
           USERNAME: 'MarwenLabidi'
-          COUNT: 10
+          COUNT: 4
         env:
           GITHUB_TOKEN: ${{ secrets.HASHNODE_GITHUB_TOKEN }}
