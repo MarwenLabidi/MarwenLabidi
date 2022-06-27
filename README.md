@@ -35,10 +35,4 @@ height="370"  href="https://app.daily.dev/MarwenLabidi"><img  align="right" src=
 - [Future JavaScript : partial-application (using ~(?,?))](https://marwenlabidi.hashnode.dev/future-javascript-partial-application-using-cky2tqkf401er02s139cn14j6)
 - [Future Javascript: numeric-separator](https://marwenlabidi.hashnode.dev/future-javascript-numeric-separator-cky2qsodk00fi1as13794d1ox)
 - [My top  playlist for coding](https://marwenlabidi.hashnode.dev/my-top-playlist-for-coding-ckwupne3102wytqs19zl79buc)
-- [Migrating from Redux to Rematch](https://marwenlabidi.hashnode.dev/migrating-from-redux-to-rematch-ckwjcbtxh052gi6s1ffg1any2)
-- [Future Javascript: new data structures(Records & Tuples )](https://marwenlabidi.hashnode.dev/future-javascript-new-data-structuresrecords-and-tuples-ckw84637f0avre7s1cv3115mg)
-- [Future Javascript: groupBy() methode](https://marwenlabidi.hashnode.dev/future-javascript-groupby-methode-ckw68chi00m9wzks125n19ip7)
-- [Future Javascript: Built in function composition (pipeline operator)](https://marwenlabidi.hashnode.dev/future-javascript-built-in-function-composition-pipeline-operator-ckw40t2he06pbzks1b9ehh6sa)
-- [How i Customized  my Pop!_OS](https://marwenlabidi.hashnode.dev/how-i-customized-my-popos-ckvef3czr0dt6cms10qse4hhe)
-- [How Linux users watch anime ?](https://marwenlabidi.hashnode.dev/how-linux-users-watch-anime-ckvbhvao30nct45s15vcf3hmo)
 <!-- HASHNODE_BLOG:END -->
