@@ -28,9 +28,8 @@ height="370"  href="https://app.daily.dev/MarwenLabidi"><img  align="right" src=
   <img width="420" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarwenLabidi&theme=radical&layout=compact" />
 </a>
 <br/>
-<p style="text-align: center;">
 
-## My Latest Blog Posts 👇
+##                                                      My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 - [JavaScript tips and tricks](https://marwenlabidi.hashnode.dev/javascript-tips-and-tricks-cky99br8j0g1a8ps18mdm6zd0)
 - [Future JavaScript : partial-application (using ~(?,?))](https://marwenlabidi.hashnode.dev/future-javascript-partial-application-using-cky2tqkf401er02s139cn14j6)
@@ -43,4 +42,3 @@ height="370"  href="https://app.daily.dev/MarwenLabidi"><img  align="right" src=
 - [How i Customized  my Pop!_OS](https://marwenlabidi.hashnode.dev/how-i-customized-my-popos-ckvef3czr0dt6cms10qse4hhe)
 - [How Linux users watch anime ?](https://marwenlabidi.hashnode.dev/how-linux-users-watch-anime-ckvbhvao30nct45s15vcf3hmo)
 <!-- HASHNODE_BLOG:END -->
- </p>
