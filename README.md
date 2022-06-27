@@ -29,7 +29,7 @@ height="370"  href="https://app.daily.dev/MarwenLabidi"><img  align="right" src=
 </a>
 <br/>
 
-##                                                      My Latest Blog Posts 👇
+## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 - [JavaScript tips and tricks](https://marwenlabidi.hashnode.dev/javascript-tips-and-tricks-cky99br8j0g1a8ps18mdm6zd0)
 - [Future JavaScript : partial-application (using ~(?,?))](https://marwenlabidi.hashnode.dev/future-javascript-partial-application-using-cky2tqkf401er02s139cn14j6)
