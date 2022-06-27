@@ -28,3 +28,7 @@ height="370"  href="https://app.daily.dev/MarwenLabidi"><img  align="right" src=
   <img width="420" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarwenLabidi&theme=radical&layout=compact" />
 </a>
 <br/>
+
+## My Latest Blog Posts 👇
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
