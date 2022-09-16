@@ -3,8 +3,6 @@
 <p align="center">
  <img  src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy  to talk with you !!</b> 😊</em>
 </p>
-<br/>
-
 
 <a width="370"
 height="370"  href="https://app.daily.dev/MarwenLabidi"><img  align="right" src="https://github.com/MarwenLabidi/MarwenLabidi/blob/main/devcard.svg" width="270" height="370" alt="Marwen Labidi Dev Card"/></a>
