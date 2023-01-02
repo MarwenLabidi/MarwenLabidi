@@ -25,8 +25,8 @@ height="370"  href="https://app.daily.dev/MarwenLabidi"><img  align="right" src=
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Stay Ahead of the Curve: Tech Trends to Learn in 2023 for Web Development"](https://marwenlabidi.hashnode.dev/stay-ahead-of-the-curve-tech-trends-to-learn-in-2023-for-web-development-clcd868my088lo9nv56ul5km9)
 - [JavaScript tips and tricks](https://marwenlabidi.hashnode.dev/javascript-tips-and-tricks-cky99br8j0g1a8ps18mdm6zd0)
 - [Future JavaScript : partial-application (using ~(?,?))](https://marwenlabidi.hashnode.dev/future-javascript-partial-application-using-cky2tqkf401er02s139cn14j6)
 - [Future Javascript: numeric-separator](https://marwenlabidi.hashnode.dev/future-javascript-numeric-separator-cky2qsodk00fi1as13794d1ox)
-- [My top  playlist for coding](https://marwenlabidi.hashnode.dev/my-top-playlist-for-coding-ckwupne3102wytqs19zl79buc)
 <!-- HASHNODE_BLOG:END -->
