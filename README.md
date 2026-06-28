@@ -6,7 +6,7 @@
 <h2> Skills</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,html,css,javascript,vite,react,nextjs&theme=light" />
+    <img src="https://skillicons.dev/icons?i=figma,html,css,javascript,typescript,vite,react,nextjs,nestjs,threejs&theme=light" />
   </a>
 </p>
 
